@@ -2,6 +2,8 @@
 
 ## PYCLT是什么?
 
+全称 :PythonCommandLineTranslators
+
 一个使用python编写的,致力于`简单甚至是简陋的`的命令行快捷翻译软件
 当然,这软件也有GUI,不过取决于你是否需要使用
 
