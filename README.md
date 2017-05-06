@@ -16,7 +16,7 @@
 * 完美的跨平台(得益于Python本身的跨平台性)
 
 ##  如何使用PYCLT？
-待完成
+* [PYCLT使用手册](https://github.com/zsh2401/PYCLT/wiki)
 
 
 ##  有问题反馈
